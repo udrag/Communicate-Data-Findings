@@ -1,6 +1,4 @@
 # Ford GoBike System Data
-## by Dragos Ungureanu
-
 
 ## Dataset
 
